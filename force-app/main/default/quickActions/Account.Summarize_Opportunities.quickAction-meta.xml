@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuickAction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionSubtype>Action</actionSubtype>
+    <description>this will create a PDF Summary of all the opportunities related to the current account and attach it to the attachments</description>
+    <label>Summarize Opportunities</label>
+    <lightningWebComponent>generateListOpptyPDF</lightningWebComponent>
+    <optionsCreateFeedItem>false</optionsCreateFeedItem>
+    <type>LightningWebComponent</type>
+</QuickAction>
