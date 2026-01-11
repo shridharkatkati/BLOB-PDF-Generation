@@ -18,5 +18,5 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
 
 ## Note:
-Add the Quick action to your Account page layout 
-this logic will only work on account record page and no where else 
+- Add the Quick action to your Account page layout 
+- this logic will only work on account record page and no where else 
